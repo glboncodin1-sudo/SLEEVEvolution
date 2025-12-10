@@ -25,9 +25,9 @@ title: SLEEVEvolution
 tagline: A Digital Archive of Filipino Identity through the Filipiniana Sleeves. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "SLEEVEvolution is a Digital Humanities project that features a collection of Filipiniana sleeves. This project aims to curate a digital collection for the preservation of Filipino identity through the Filipiniana. [Header photo by Ed Simon]"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: 
 
 ##########
 # COLLECTION SETTINGS
