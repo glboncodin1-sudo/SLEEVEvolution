@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdn.prod.website-files.com/64ee952e7576e9baae067541/64f1ae2a1aba01c60a5a93a8_ternocon-champion-p-2000.jpg" %}
+{% include feature/jumbotron.html objectid="https://cdn.prod.website-files.com/64ee952e7576e9baae067541/64f18fca8cb6363179a4e637_ternocon-2023.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the Project" %}
 
