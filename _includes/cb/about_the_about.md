@@ -8,7 +8,7 @@
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
 ## About the Project
-- The Filipiniana is the comprehensive term for traditional Filipino female attire, encompassing forms like the Baro’t Saya, Maria Clara, and Terno. As the Filipiniana continues to evolve, it also develops our national identity. However, documentation of the technical, material, and social histories of Filipiniana sleeves remains fragmented across museum sites and scattered archival photographs.
+The Filipiniana is the comprehensive term for traditional Filipino female attire, encompassing forms like the Baro’t Saya, Maria Clara, and Terno. As the Filipiniana continues to evolve, it also develops our national identity. However, documentation of the technical, material, and social histories of Filipiniana sleeves remains fragmented across museum sites and scattered archival photographs.
 
 In this regard, SLEEVEvolution aims to address the lack of accessible and interactive visualization regarding the evolution of Filipiniana sleeves. This project utilized direct searching, chaining, and browsing to locate relevant content, followed by rigorous gathering, organizing, and assessing of data. The project also relied on various tools, including data collection, image sourcing, text annotation, and website development via CollectionBuilder and GitHub Pages. It documents sleeve evolution as a focus of material culture, colonial encounter, and contemporary fashion politics. It also aims to preserve technical knowledge, support research and teaching, and broaden public access to the cultural narratives embedded in Filipiniana sleeve traditions.
 
