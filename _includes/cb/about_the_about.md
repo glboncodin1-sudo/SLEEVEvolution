@@ -7,7 +7,7 @@
 {% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
-## About the Project
+### About the Project
 
 "The Filipiniana is the comprehensive term for traditional Filipino female attire, encompassing forms like the Baro’t Saya, Maria Clara, and Terno. As the Filipiniana continues to evolve, it also develops our national identity. However, documentation of the technical, material, and social histories of Filipiniana sleeves remains fragmented across museum sites and scattered archival photographs.
 
