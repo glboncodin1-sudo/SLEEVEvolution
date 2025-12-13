@@ -13,15 +13,10 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the Project" %}
 
 ## About the Collection
+"SLEEVEvolution: A Digital Archive of Filipino Identity through the Filipiniana sleeves" is a curated collection of visual and textual materials documenting the historical and architectural transformation of the Filipiniana sleeve. This collection features garments spanning a wide timeline,from 1937 to 2024. The collection emphasizes the definitive shift from the soft, draped colonial sleeve to the flat, rigid butterfly silhouette.
+‎
+The site highlights works by fashion icons such as National Artists Ramon Valera and Salvacion Lim Higgins, alongside celebrated modern designers, Yssa Inumerable and Len Cabili among others. Our visual dataset, critical for tracing morphological change, includes access to more than 10 archival images. Primary image sources are derived from institutional collections, notably the VOGUE Philippines, and online websites such as Artes de las Filipinas, and How the Terno Took Shape.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
